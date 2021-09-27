@@ -11,3 +11,8 @@ https://philippe2308.github.io/fyldApp/
 # Upcoming :boom::boom: available for Mobile :boom::boom:
 
 Next step I gonna make this project a PWA application.
+
+# What is a PWA? :books::books: 
+
+
+You can acess the follow link to learn more about this topic https://web.dev/what-are-pwas/
