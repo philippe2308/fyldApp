@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fyldApp/static/css/main.dba11b78.chunk.css",
+    "main.js": "/fyldApp/static/js/main.2e28d628.chunk.js",
+    "main.js.map": "/fyldApp/static/js/main.2e28d628.chunk.js.map",
+    "runtime-main.js": "/fyldApp/static/js/runtime-main.01c3f225.js",
+    "runtime-main.js.map": "/fyldApp/static/js/runtime-main.01c3f225.js.map",
+    "static/js/2.62bd87f3.chunk.js": "/fyldApp/static/js/2.62bd87f3.chunk.js",
+    "static/js/2.62bd87f3.chunk.js.map": "/fyldApp/static/js/2.62bd87f3.chunk.js.map",
+    "static/js/3.21143ef0.chunk.js": "/fyldApp/static/js/3.21143ef0.chunk.js",
+    "static/js/3.21143ef0.chunk.js.map": "/fyldApp/static/js/3.21143ef0.chunk.js.map",
+    "index.html": "/fyldApp/index.html",
+    "service-worker.js": "/fyldApp/service-worker.js",
+    "service-worker.js.map": "/fyldApp/service-worker.js.map",
+    "static/css/main.dba11b78.chunk.css.map": "/fyldApp/static/css/main.dba11b78.chunk.css.map",
+    "static/js/2.62bd87f3.chunk.js.LICENSE.txt": "/fyldApp/static/js/2.62bd87f3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fyldApp/static/media/BaiJamjuree-Bold.cfc3d75d.ttf",
+    "static/media/icon_Age_Average.47225dbb.svg": "/fyldApp/static/media/icon_Age_Average.47225dbb.svg",
+    "static/media/icon_Countries.a1bcb26d.svg": "/fyldApp/static/media/icon_Countries.a1bcb26d.svg",
+    "static/media/icon_Feminine.672fcc93.svg": "/fyldApp/static/media/icon_Feminine.672fcc93.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c3f225.js",
+    "static/js/2.62bd87f3.chunk.js",
+    "static/css/main.dba11b78.chunk.css",
+    "static/js/main.2e28d628.chunk.js"
+  ]
+}
