@@ -8,9 +8,6 @@ function Splash() {
         <div className="background">
 
             <LoadIcon/>
-            <div className="textAreYouReady">
-                Are you ready to
-            </div>
 
             
       </div>
